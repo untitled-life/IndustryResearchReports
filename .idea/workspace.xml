@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c36eb868-21e2-4a78-b0fa-63d1f9ea97c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Programs/maven363" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aViEQqx7yy7wTufIBNG7OlW7yQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.26" />
+    <property name="project.structure.side.proportion" value="0.5689655" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c36eb868-21e2-4a78-b0fa-63d1f9ea97c8" name="Default Changelist" comment="" />
+      <created>1586827049659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586827049659</updated>
+      <workItem from="1586827053248" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="396" y="116" key="#Project_Structure" timestamp="1586827066213">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="396" y="116" key="#Project_Structure/0.23.1792.1017@0.23.1792.1017" timestamp="1586827066212" />
+    <state x="256" y="23" key="SettingsEditor" timestamp="1586827115133">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="256" y="23" key="SettingsEditor/0.23.1792.1017@0.23.1792.1017" timestamp="1586827115133" />
+    <state x="97" y="238" key="new project wizard" timestamp="1586827113163">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="97" y="238" key="new project wizard/0.23.1792.1017@0.23.1792.1017" timestamp="1586827113163" />
+  </component>
+</project>
